@@ -13,14 +13,14 @@
 
  
 
-柏格與拉克曼原著。鄒理民譯, 知識社會學: 社會實體的建構(二、三、四章)。台北：巨流，民80。
+-   柏格與拉克曼原著。鄒理民譯, 知識社會學: 社會實體的建構(二、三、四章)。台北：巨流，民80。
 
  
 
 **第3週(10/3)** 資訊社會理論
 ----------------------------
 
-Webster, Frank. Theories of the Information Society. London and New York : Routledge, 1995. 中文可參考馮建三譯。資訊社會理論(一、二、三章)。台北：遠流，民88。
+-   Webster, Frank. Theories of the Information Society. London and New York : Routledge, 1995. 中文可參考馮建三譯。資訊社會理論(一、二、三章)。台北：遠流，民88。
 
  
 
@@ -32,42 +32,42 @@ Webster, Frank. Theories of the Information Society. London and New York : Routl
 **第5週(10/17)** 資訊社會理論
 -----------------------------
 
-Webster, Frank. Theories of the Information Society. London and New York : Routledge, 1995. 中文可參考馮建三譯。資訊社會理論(四、五、六章)。台北：遠流，民88。
+-   Webster, Frank. Theories of the Information Society. London and New York : Routledge, 1995. 中文可參考馮建三譯。資訊社會理論(四、五、六章)。台北：遠流，民88。
 
  
 
 **第6週(10/24)** 資訊社會理論
 -----------------------------
 
-Webster, Frank. Theories of the Information Society. London and New York : Routledge, 1995. 中文可參考馮建三譯。資訊社會理論(七、八、九章)。台北：遠流，民88。
+-   Webster, Frank. Theories of the Information Society. London and New York : Routledge, 1995. 中文可參考馮建三譯。資訊社會理論(七、八、九章)。台北：遠流，民88。
 
  
 
 **第7週(10/31)** 信息方式
 -------------------------
 
-波斯特，馬克著。信息方式。北京：商务印书馆，2000年
+-   波斯特，馬克著。信息方式。北京：商务印书馆，2000年
 
  
 
 **第8週(11/7)** 信息方式
 ------------------------
 
-波斯特，馬克著。信息方式。北京：商务印书馆，2000年
+-   波斯特，馬克著。信息方式。北京：商务印书馆，2000年
 
  
 
 **第9週(11/14)** 知識管理
 -------------------------
 
-Nonaka,Ikujiro and Hirotaka Takeuchi原著，楊子江、王美音譯。創新求勝－－智價企業論(一、二、三章)。台北：遠流，1997。
+-   Nonaka,Ikujiro and Hirotaka Takeuchi原著，楊子江、王美音譯。創新求勝－－智價企業論(一、二、三章)。台北：遠流，1997。
 
  
 
 **第10週(11/21)** 
 ------------------
 
-Nonaka,Ikujiro and Hirotaka Takeuchi原著，楊子江、王美音譯。創新求勝－－智價企業論(四、五、六、七章)。台北：遠流，1997。
+-   Nonaka,Ikujiro and Hirotaka Takeuchi原著，楊子江、王美音譯。創新求勝－－智價企業論(四、五、六、七章)。台北：遠流，1997。
 
  
 
@@ -76,95 +76,114 @@ Nonaka,Ikujiro and Hirotaka Takeuchi原著，楊子江、王美音譯。創新�
 
  
 
-張文強 (2001) 。台灣報社知識管理現狀初探：知識儲存與分享圖像的描繪， 吳思華﹙編﹚，**知識資本在台灣** (頁229-296)。台北：遠流。
+-   張文強 (2001) 。台灣報社知識管理現狀初探：知識儲存與分享圖像的描繪， 吳思華﹙編﹚，**知識資本在台灣** (頁229-296)。台北：遠流。
 
-葉乃靜、賴鼎銘 (2007)。由人骨拼圖電影看犯罪現場辨識專家的知識應用，賴鼎銘、葉乃靜(編)，**默會知識研究** (頁211-224)。台北: 文華。
+-   葉乃靜、賴鼎銘 (2007)。由人骨拼圖電影看犯罪現場辨識專家的知識應用，賴鼎銘、葉乃靜(編)，**默會知識研究** (頁211-224)。台北: 文華。
 
-潘鳳儀 (2000)。[台灣報社記者知識管理模型之研究--以財經線為例](<javascript:document.frmSimpleSearch.query.value='title:%22台灣報社記者知識管理模型之研究--以財經線為例%22';document.frmSimpleSearch.submit()>)， 國立政治大學新聞研究所碩士論文。
+-   潘鳳儀 (2000)。[台灣報社記者知識管理模型之研究--以財經線為例](<javascript:document.frmSimpleSearch.query.value='title:%22台灣報社記者知識管理模型之研究--以財經線為例%22';document.frmSimpleSearch.submit()>)， 國立政治大學新聞研究所碩士論文。
 
  
 
 **第12週(12/5) 學術傳播& Altmetrics**
 -------------------------------------
 
-Crane, Diana (1980). “Social Structure in a Group of Scientists: A Test of the “Invisible College.”” In **Key Papers in Information Science**, ed. Belver C. Griffith, pp. 10-27. White Plain, NY:Knowledge Industry Publications.
+-   Crane, Diana (1980). “Social Structure in a Group of Scientists: A Test of the “Invisible College.”” In **Key Papers in Information Science**, ed. Belver C. Griffith, pp. 10-27. White Plain, NY:Knowledge Industry Publications.
 
-Crawford, Susan (1980). “Informal CommunicationAmong Scientists in Sleep Research.” In **Key Papers in Information Science**, ed. Belver C. Griffith, pp. 28-30. White Plain, NY: Knowledge IndustryPublications.
+-   Crawford, Susan (1980). “Informal CommunicationAmong Scientists in Sleep Research.” In **Key Papers in Information Science**, ed. Belver C. Griffith, pp. 28-30. White Plain, NY: Knowledge IndustryPublications.
 
-Garvey, William and Belver Griffith (1980). “Scientific Communication: Its Role in the Conduct of Research and Creation of Knowledge.” In **Key Papers in Information Science**, ed. Belver C.Griffith, pp. 38-51. White Plain, NY: Knowledge Industry Publications, 1980.
+-   Garvey, William and Belver Griffith (1980). “Scientific Communication: Its Role in the Conduct of Research and Creation of Knowledge.” In **Key Papers in Information Science**, ed. Belver C.Griffith, pp. 38-51. White Plain, NY: Knowledge Industry Publications, 1980.
 
-Griffith, Belver C. (1980). “Introduction,” in **Key Papers in Information Science**, ed. Belver C. Griffith, pp. 1-7. White Plains, N.Y.: Knowledge Industry Publications.
+-   Griffith, Belver C. (1980). “Introduction,” in **Key Papers in Information Science**, ed. Belver C. Griffith, pp. 1-7. White Plains, N.Y.: Knowledge Industry Publications.
 
-Griffith, Belver, and Nicholas Mullins (1980).“Coherent Social Groups in Scientific Change.” In **Key Papers in InformationScience**, ed. Belver C. Griffith, pp. 52-57. White Plain, NY: KnowledgeIndustry Publications, .
+-   Griffith, Belver, and Nicholas Mullins (1980).“Coherent Social Groups in Scientific Change.” In **Key Papers in InformationScience**, ed. Belver C. Griffith, pp. 52-57. White Plain, NY: KnowledgeIndustry Publications, .
 
-蘇國賢(2004)。社會學知識的社會生產：台灣社會學者的隱形學群。**台灣社會學**(8)：頁133-192。(http://tsa.sinica.edu.tw/Imform/Imform/file1/2003meeting/11300503.pdf)
+-   蘇國賢(2004)。社會學知識的社會生產：台灣社會學者的隱形學群。**台灣社會學**(8)：頁133-192。  
+    ([http://tsa.sinica.edu.tw/Imform/Imform/file1/2003meeting/11300503.pdf](<http://tsa.sinica.edu.tw/Imform/Imform/file1/2003meeting/11300503.pdf>))
 
-李丁讚 (2005)。學術生產、隱形學群、與學術評鑑。**全球化與知識生產：反思臺灣學術評鑑**。
+-   李丁讚 (2005)。學術生產、隱形學群、與學術評鑑。**全球化與知識生產：反思臺灣學術評鑑**。
 
-[我們該如何看待「科研指標」？ ](<http://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CBwQFjAA&url=http%3A%2F%2Fwww.etop.org.tw%2Fdsp%2FE11.php%3Fc%3Ddspfile%26id%3DMmI0NmI0NmRiZTIxMTU1ZDJjODA5NzFjZjI0NzJmZDIucGRm&ei=gKSoVJXBFIvf8AWRroCQBg&usg=AFQjCNGx-O9w_ZK-dfRnGPfwsE55zDdoCg&sig2=hpq9kKvYXy9zSkVCbSFR7A>)http://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CBwQFjAA&url=http%3A%2F%2Fwww.etop.org.tw%2Fdsp%2FE11.php%3Fc%3Ddspfile%26id%3DMmI0NmI0NmRiZTIxMTU1ZDJjODA5NzFjZjI0NzJmZDIucGRm&ei=gKSoVJXBFIvf8AWRroCQBg&usg=AFQjCNGx-O9w\_ZK-dfRnGPfwsE55zDdoCg&sig2=hpq9kKvYXy9zSkVCbSFR7A
+-   我們該如何看待「科研指標」？ 
+    [http://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CBwQFjAA&url=http%3A%2F%2Fwww.etop.org.tw%2Fdsp%2FE11.php%3Fc%3Ddspfile%26id%3DMmI0NmI0NmRiZTIxMTU1ZDJjODA5NzFjZjI0NzJmZDIucGRm&ei=gKSoVJXBFIvf8AWRroCQBg&usg=AFQjCNGx-O9w\_ZK-dfRnGPfwsE55zDdoCg&sig2=hpq9kKvYXy9zSkVCbSFR7A](<http://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CBwQFjAA&url=http%3A%2F%2Fwww.etop.org.tw%2Fdsp%2FE11.php%3Fc%3Ddspfile%26id%3DMmI0NmI0NmRiZTIxMTU1ZDJjODA5NzFjZjI0NzJmZDIucGRm&ei=gKSoVJXBFIvf8AWRroCQBg&usg=AFQjCNGx-O9w\_ZK-dfRnGPfwsE55zDdoCg&sig2=hpq9kKvYXy9zSkVCbSFR7A>)
 
-彭明輝(2012)。評國科會「我們該如何看待『科研指標』」一文」http://mhperng.blogspot.tw/2012/06/blog-post\_27.html
+-   彭明輝(2012)。評國科會「我們該如何看待『科研指標』」一文」[http://mhperng.blogspot.tw/2012/06/blog-post\_27.html](<http://mhperng.blogspot.tw/2012/06/blog-post\_27.html>)
 
-**周平(2008)。學歷壓垮健康？**
+-   周平(2008)。學歷壓垮健康？  
+    [http://www.coolloud.org.tw/node/14610](<http://www.coolloud.org.tw/node/14610>)
 
-http://www.coolloud.org.tw/node/14610
+-   NISO Vets Research on  Altmetrics [http://scholarlykitchen.sspnet.org/2014/07/10/niso-vets-research-on-altmetrics/](<http://scholarlykitchen.sspnet.org/2014/07/10/niso-vets-research-on-altmetrics/>)
 
-NISO Vets Research on  Altmetrics http://scholarlykitchen.sspnet.org/2014/07/10/niso-vets-research-on-altmetrics/
+-   Keeping Up With... Altmetrics [http://www.ala.org/acrl/publications/keeping\_up\_with/altmetrics](<http://www.ala.org/acrl/publications/keeping\_up\_with/altmetrics>)
 
-Keeping Up With... Altmetrics http://www.ala.org/acrl/publications/keeping\_up\_with/altmetrics
+-   Altmetrics: a manifesto   
+    ([http://altmetrics.org/manifesto/](<http://altmetrics.org/manifesto/>))
 
-Altmetrics: a manifesto (http://altmetrics.org/manifesto/)
-
-Konkiel, Stacey (2013). 21st-Century Solution to Determining Research Quality (http://www.infotoday.com/OnlineSearcher/Articles/Features/Altmetrics-A-stCentury-Solution-to-Determining-Research-Quality-90551.shtml)
+-   Konkiel, Stacey (2013). 21st-Century Solution to Determining Research Quality   
+    ([http://www.infotoday.com/OnlineSearcher/Articles/Features/Altmetrics-A-stCentury-Solution-to-Determining-Research-Quality-90551.shtml](<http://www.infotoday.com/OnlineSearcher/Articles/Features/Altmetrics-A-stCentury-Solution-to-Determining-Research-Quality-90551.shtml>))
 
  
 
 **第13週(12/12) Open data & big data**
 --------------------------------------
 
- **林安妮(2014)。毛揆推open data 六領域先行。經濟日報╱2014.12.17。**
+-   林安妮(2014)。毛揆推open data 六領域先行。經濟日報╱2014.12.17。
 
  
 
-**開放資料**http://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E8%B3%87%E6%96%99
+-   開放資料[http://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E8%B3%87%E6%96%99](<http://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E8%B3%87%E6%96%99>)
 
-**為何要開放資料？**http://opendatahandbook.org/zh\_TW/why-open-data/index.html
+-   為何要開放資料？  
+    [http://opendatahandbook.org/zh\_TW/why-open-data/index.html](<http://opendatahandbook.org/zh\_TW/why-open-data/index.html>)
 
-**台北市政府開放資料** (http:/data.taipei.gov.tw/\#)
+-   台北市政府開放資料   
+    ([http:/data.taipei.gov.tw/\#](<http:/data.taipei.gov.tw/\#>))
 
-**以為自己很懂 Big Data ，但其實你可能正犯下一個大錯** http://buzzorange.com/techorange/2014/06/04/big-data-making-big-mistake/
+-   以為自己很懂 Big Data ，但其實你可能正犯下一個大錯 
+    [http://buzzorange.com/techorange/2014/06/04/big-data-making-big-mistake/](<http://buzzorange.com/techorange/2014/06/04/big-data-making-big-mistake/>)
 
-**大數據-**維基百科http://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%B8%E6%93%9A
+-   大數據-維基百科  
+    [http://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%B8%E6%93%9A](<http://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%B8%E6%93%9A>)
 
-[FB 闖大禍！亂用大數據招惡果](<http://unwire.hk/2014/12/28/fb-3/column/>) • http://unwire.hk/2014/12/28/fb-3/column/
+-   [FB 闖大禍！亂用大數據招惡果](<http://unwire.hk/2014/12/28/fb-3/column/>) •   
+    [http://unwire.hk/2014/12/28/fb-3/column/](<http://unwire.hk/2014/12/28/fb-3/column/>)
 
-**台大林智仁教授談大數據分析的挑戰與機會**http://www.inside.com.tw/2014/09/01/big-data-analytics-challenges-and-opportunities
+-   台大林智仁教授談大數據分析的挑戰與機會  
+    [http://www.inside.com.tw/2014/09/01/big-data-analytics-challenges-and-opportunities](<http://www.inside.com.tw/2014/09/01/big-data-analytics-challenges-and-opportunities>)
 
-[Big data 是什麼？《大數據》作者麥爾荀伯格為大家解惑](<http://technews.tw/2014/06/12/big-data-viktor-mayer-schonberger/>)http://technews.tw/2014/06/12/big-data-viktor-mayer-schonberger/
+-   [Big data 是什麼？《大數據》作者麥爾荀伯格為大家解惑](<http://technews.tw/2014/06/12/big-data-viktor-mayer-schonberger/>)  
+    [http://technews.tw/2014/06/12/big-data-viktor-mayer-schonberger/](<http://technews.tw/2014/06/12/big-data-viktor-mayer-schonberger/>)
 
-**華為內部狂轉好文：有關大數據，看這一篇就夠了（大數據時代）**https://chaoglobal.wordpress.com/2014/01/19/huaweibigdata/
+-   華為內部狂轉好文：有關大數據，看這一篇就夠了（大數據時代）  
+    [https://chaoglobal.wordpress.com/2014/01/19/huaweibigdata/](<https://chaoglobal.wordpress.com/2014/01/19/huaweibigdata/>)
 
-**車品覺(2015)。《大數據的關鍵思考》(1)：萬物皆數據─大數據的黃金十年。風傳媒 2015年01月02日。**http://www.stormmediagroup.com/opencms/review/detail/7b15ff2a-8fe1-11e4-9ff2-ef2804cba5a1/?uuid=7b15ff2a-8fe1-11e4-9ff2-ef2804cba5a1
+-   車品覺(2015)。《大數據的關鍵思考》(1)：萬物皆數據─大數據的黃金十年。風傳媒 2015年01月02日。 
+    [http://www.stormmediagroup.com/opencms/review/detail/7b15ff2a-8fe1-11e4-9ff2-ef2804cba5a1/?uuid=7b15ff2a-8fe1-11e4-9ff2-ef2804cba5a1](<http://www.stormmediagroup.com/opencms/review/detail/7b15ff2a-8fe1-11e4-9ff2-ef2804cba5a1/?uuid=7b15ff2a-8fe1-11e4-9ff2-ef2804cba5a1>)
 
-**車品覺(2015)。《大數據的關鍵思考》**[》(2)：決勝未來的商業利器](<http://www.stormmediagroup.com/opencms/review/detail/936ecad8-8fe2-11e4-9ff2-ef2804cba5a1/?uuid=936ecad8-8fe2-11e4-9ff2-ef2804cba5a1>)**。風傳媒 2015年01月03日。**http://www.stormmediagroup.com/opencms/review/detail/936ecad8-8fe2-11e4-9ff2-ef2804cba5a1/?uuid=936ecad8-8fe2-11e4-9ff2-ef2804cba5a1
+-   車品覺(2015)。《大數據的關鍵思考》》(2)：決勝未來的商業利器(<http://www.stormmediagroup.com/opencms/review/detail/936ecad8-8fe2-11e4-9ff2-ef2804cba5a1/?uuid=936ecad8-8fe2-11e4-9ff2-ef2804cba5a1>)**。風傳媒 2015年01月03日。**  
+    [http://www.stormmediagroup.com/opencms/review/detail/936ecad8-8fe2-11e4-9ff2-ef2804cba5a1/?uuid=936ecad8-8fe2-11e4-9ff2-ef2804cba5a1](<http://www.stormmediagroup.com/opencms/review/detail/936ecad8-8fe2-11e4-9ff2-ef2804cba5a1/?uuid=936ecad8-8fe2-11e4-9ff2-ef2804cba5a1>)
 
-### 車品覺(2015)。《大數據的關鍵思考》(3)：CEO關心那3項數據？風傳媒 2015年01月04日 ([http://www.stormmediagroup.com/opencms/review/detail/5f82c047-8fe3-11e4-9ff2-ef2804cba5a1/?uuid=5f82c047-8fe3-11e4-9ff2-ef2804cba5a1](<http://www.stormmediagroup.com/opencms/review/detail/5f82c047-8fe3-11e4-9ff2-ef2804cba5a1/?uuid=5f82c047-8fe3-11e4-9ff2-ef2804cba5a1>))
+-   車品覺(2015)。《大數據的關鍵思考》(3)：CEO關心那3項數據？風傳媒 2015年01月04日   
+    ([http://www.stormmediagroup.com/opencms/review/detail/5f82c047-8fe3-11e4-9ff2-ef2804cba5a1/?uuid=5f82c047-8fe3-11e4-9ff2-ef2804cba5a1](<http://www.stormmediagroup.com/opencms/review/detail/5f82c047-8fe3-11e4-9ff2-ef2804cba5a1/?uuid=5f82c047-8fe3-11e4-9ff2-ef2804cba5a1>))
 
-張約翰 (2015)。台灣綜合類新聞媒體臉書專頁統計：2015.7。http://johnchang1225.blogspot.tw/2015/08/20157.html
+-   張約翰 (2015)。台灣綜合類新聞媒體臉書專頁統計：2015.7。  
+    [http://johnchang1225.blogspot.tw/2015/08/20157.html](<http://johnchang1225.blogspot.tw/2015/08/20157.html>)
 
-張約翰 (2015)。台灣綜合類新聞媒體臉書專頁統計：2015.6。http://johnchang1225.blogspot.tw/2015\_07\_01\_archive.html
+-   張約翰 (2015)。台灣綜合類新聞媒體臉書專頁統計：2015.6。  
+    [http://johnchang1225.blogspot.tw/2015\_07\_01\_archive.html](<http://johnchang1225.blogspot.tw/2015\_07\_01\_archive.html>)
 
-韋伯 (2014)。凱擘收視率推翻了尼爾森收視率？http://tw.on.cc/tw/bkn/cnt/commentary/20140707/bkntw-20140707000522715-0707\_04411\_001.html
+-   韋伯 (2014)。凱擘收視率推翻了尼爾森收視率？[http://tw.on.cc/tw/bkn/cnt/commentary/20140707/bkntw-20140707000522715-0707\_04411\_001.html](<http://tw.on.cc/tw/bkn/cnt/commentary/20140707/bkntw-20140707000522715-0707\_04411\_001.html>)
 
-韋伯 (2014)。民視收視率減少57％？！http://tw.on.cc/tw/bkn/cnt/commentary/20140710/bkntw-20140710000527883-0710\_04411\_001.html
+-   韋伯 (2014)。民視收視率減少57％？！  
+    [http://tw.on.cc/tw/bkn/cnt/commentary/20140710/bkntw-20140710000527883-0710\_04411\_001.html](<http://tw.on.cc/tw/bkn/cnt/commentary/20140710/bkntw-20140710000527883-0710\_04411\_001.html>)
 
-林照真(2004)。調查的迷思Ⅱ：解讀市場機制，誰在扼殺電視品質？http://h12330.pixnet.net/blog/post/21183270-%e9%9b%bb%e8%a6%96%e6%94%b6%e8%a6%96%e8%bf%b7%e6%80%9d
+-   林照真(2004)。調查的迷思Ⅱ：解讀市場機制，誰在扼殺電視品質？  
+    [http://h12330.pixnet.net/blog/post/21183270-%e9%9b%bb%e8%a6%96%e6%94%b6%e8%a6%96%e8%bf%b7%e6%80%9d](<http://h12330.pixnet.net/blog/post/21183270-%e9%9b%bb%e8%a6%96%e6%94%b6%e8%a6%96%e8%bf%b7%e6%80%9d>)
 
-林照真 (2011)。收視率的宰制：台灣媒體代理商與電視頻道業者，權力競逐之研究。 http://mcr.nccu.edu.tw/word/2326522013.pdf 
+-   林照真 (2011)。收視率的宰制：台灣媒體代理商與電視頻道業者，權力競逐之研究。 [http://mcr.nccu.edu.tw/word/2326522013.pdf ](<http://mcr.nccu.edu.tw/word/2326522013.pdf>)
 
  
 
 **第14週(12/19) 新媒體使用**
+----------------------------
 
  
 
@@ -195,6 +214,7 @@ MJ (2015)。《2015行動世代，大學生媒體使用行為》系列－大學�
  
 
 **第15週(12/26) 資訊行為與虛擬社群研究**
+----------------------------------------
 
  
 
@@ -232,6 +252,7 @@ MJ (2015)。《2015行動世代，大學生媒體使用行為》系列－大學�
 關尚仁 (2012)。[雲端運算與數位策展 - 2012網際網路趨勢研討會](<http://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CBwQFjAA&url=http%3A%2F%2Fwww.seminar2012.twnic.tw%2Fdownload%2F28-4-3.pdf&ei=BKunVIv1BZL98QW8hYDYBw&usg=AFQjCNHaFqd5l7lK0lMOtORdTWlglK-bIQ&sig2=l02pmS2p7943-4RTVAwp_w&bvm=bv.82001339,d.dGc>)http://www.seminar2012.twnic.tw/download/28-4-3.pdf
 
 **第16週(1/2) 粉絲文化研究**
+----------------------------
 
 粉絲文化研究。文化研究。第九輯 (頁103-227)。北京:社會科學文獻出版社，2010。
 
@@ -250,6 +271,7 @@ MJ (2015)。《2015行動世代，大學生媒體使用行為》系列－大學�
  
 
 **第17週(1/9) 粉絲文化研究**
+----------------------------
 
 **粉絲實踐中的身份政治**
 
@@ -264,8 +286,7 @@ MJ (2015)。《2015行動世代，大學生媒體使用行為》系列－大學�
  
 
 **第18週(1/16) 國假**
-
-。
+---------------------
 
  
 
